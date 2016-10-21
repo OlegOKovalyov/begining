@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"П",
+				"Пароль"
+			],
+			[
+				"p",
+				"psw"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"va",
+				"value1"
+			],
+			[
+				"val",
+				"value1"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"k",
+				"katet2"
+			],
+			[
+				"kat",
+				"katet1"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"au",
+				"audio\tTag"
+			],
+			[
+				"l",
+				"loop\tAttr"
+			],
+			[
+				"vid",
+				"video\tTag"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "plugi",
+		"selected_items":
+		[
+			[
+				"plugi",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"liverelo",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"p",
+				"Permute Lines: Reverse"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/sitefor.loc/FORM/form-0.html",
+		"/opt/lampp/htdocs/sitefor.loc/JS-MyRusakovRu/CheckFormJS/index-0.html",
+		"/home/trade/WORK/CS50UA/Лекція 8-1/sample.html",
+		"/home/trade/WORK/CS50UA/Лекція 8-1/froshims-0.php",
+		"/home/trade/WORK/HTML для начинающих/index.html",
+		"/opt/lampp/htdocs/sitefor.loc/JS-MyRusakovRu/CheckFormJS/chckfrm.js",
+		"/home/trade/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"srce",
+			"src",
+			"bootstrap",
+			"src",
+			"active",
+			"\t\t\t<input type=\"text\" name=\"Введіть ім'я\">",
+			"\t\t\t\n",
+			"<input type=\"text\" name=\"Введіть ім'я\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src",
+			"srce"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
